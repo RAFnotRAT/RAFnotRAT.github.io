@@ -233,9 +233,15 @@ h6 > a {
 a {
   color: inherit;
   text-decoration-color: $smoke;
+  background-image: linear-gradient($text-link-blue, $text-link-blue);
+  background-size: 0% 2px;
+  background-repeat: no-repeat;
+  background-position: left bottom;
+  transition: background-size 0.3s ease;
 
   &:hover {
     color: $text-link-blue;
+    background-size: 100% 2px;
   }
 
   &:focus {

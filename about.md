@@ -14,6 +14,6 @@ If you have any questions or just want to say hi, feel free to reach out.
 
 **may u needs ✨**
 
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
-- twitter.com/{{ site.author.twitter }}
+- ryze.shadows@gmail.com
+- github.com/rafnotrat
+- twitter.com/rafnotrat

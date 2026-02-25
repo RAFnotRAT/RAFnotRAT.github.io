@@ -1,5 +1,5 @@
 ---
-title: Colophon
+title: About Me
 permalink: /about/
 layout: page
 excerpt: Hey! I'm RAFF, a 14-year-old percussionist building this site. Welcome to my corner of the internet!
